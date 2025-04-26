@@ -1,2 +1,4 @@
-cv*
+cv*.pdf
 *.ipynb
+venv/
+__pycache__/
